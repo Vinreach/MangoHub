@@ -91,7 +91,7 @@ local Window = WindUI:CreateWindow({
     User = { Enabled = true, Anonymous = true },
     KeySystem = {
         Key = {},
-        Note = "Paste the key from GetKey app. Anyone who has the key can use it.",
+        Note = "Paste the key from GetKey app.",
         URL = "No Link",
         SaveKey = false,
         Callback = function(inputKey)
