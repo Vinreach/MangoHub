@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Vinreach/MangoHub-Script/refs/heads/main/MangoHub-Load.lua?token=GHSAT0AAAAAADJWTGCZSSNB445HASVHJ3OY2FY6PTA"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Vinreach/MangoHub-Script/refs/heads/main/MangoHub-Load.lua"))()
